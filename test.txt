@@ -6,3 +6,4 @@ TEST!
 これだけコミットしたい。
 masterで進める
 masterで追加
+secondでコミット
